@@ -17,10 +17,6 @@ import {
   Sparkles,
 } from "lucide-react";
 
-// ---------------------------------------------------------------------------
-// CONTENT — edit the values below to update the site. No other code changes
-// should be needed for day-to-day updates (new project, new link, etc).
-// ---------------------------------------------------------------------------
 
 const PROFILE = {
   name: "Kurt Lawrence J. Tolentino",
@@ -283,7 +279,6 @@ export default function Portfolio() {
               </div>
             </div>
 
-            {/* Right: portrait with soft glow + floating skill chips */}
             <div className="relative flex justify-center md:justify-end">
               <div
                 aria-hidden="true"
