@@ -27,7 +27,7 @@ const PROFILE = {
   firstName: "Kurt",
   role: "Full-Stack Developer / Mobile Developer",
   location: "Philippines",
-  email: "kurtlawrence.tolentino@email.com", // TODO: replace with real email
+  email: "tolentinolawrencekurt@gmail.com", // TODO: replace with real email
   github: "https://github.com/shiezZz", // TODO: replace
   linkedin: "https://www.linkedin.com/in/kurt-tolentino-717275347/", // TODO: replace
   resumeUrl: "./resume.pdf", // TODO: replace with a real hosted PDF link
