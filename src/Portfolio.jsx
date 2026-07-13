@@ -83,7 +83,7 @@ const PROJECTS = [
       "An interactive flipbook that brings Philippine mythical creatures to life, built to make learning Filipino folklore more engaging for students.",
     tags: ["Web", "Interactive UI", "Education"],
     githubUrl: "https://github.com/shiezZz/Panitikan",
-    liveUrl: "#",
+    liveUrl: "",
   },
 ];
 
