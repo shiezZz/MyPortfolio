@@ -70,6 +70,14 @@ const PROJECTS = [
     liveUrl: "",
   },
   {
+    title: "CSCQC Attendance System",
+    description: 
+      "An administrative validation feature that allows authorized personnel to confirm or reject faculty attendance entries.",
+    tags: ["System", "Firebase"],
+    githubUrl: "https://github.com/shiezZz/Capstone.git",
+    liveUrl: "",
+  },
+  {
     title: "StaycationHavenPH",
     description:
       "A partnership module for a staycation booking platform that lets individual unit owners list their own properties, so guests can browse and book stays directly on the site.",
