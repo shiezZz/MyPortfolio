@@ -1,0 +1,28 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Kurt Lawrence J. Tolentino — Full-Stack & Mobile Developer</title>
+    <meta
+      name="description"
+      content="Portfolio of Kurt Lawrence J. Tolentino, a Full-Stack and Mobile Developer building web and mobile apps with Python, Java, JavaScript, TypeScript, MySQL, and Firebase."
+    />
+    <meta name="theme-color" content="#ECEAE2" />
+    <script>
+      (function () {
+        try {
+          var t = localStorage.getItem("theme");
+          if (!t) t = matchMedia("(prefers-color-scheme: dark)").matches ? "dark" : "light";
+          document.documentElement.dataset.theme = t;
+        } catch (e) {
+          document.documentElement.dataset.theme = "light";
+        }
+      })();
+    </script>
+  </head>
+  <body>
+    <div id="root"></div>
+    <script type="module" src="/src/main.jsx"></script>
+  </body>
+</html>
